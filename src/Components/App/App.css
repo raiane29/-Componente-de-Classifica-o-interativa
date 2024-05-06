@@ -1,0 +1,31 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: hsl(213, 19%, 18%);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.Caixa{
+    background-color: hsl(216, 12%, 8%);
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+img{
+    width: 25px;
+    padding: 10px;
+    border-radius: 50px;
+    background-color:hsl(213, 19%, 18%);
+}
+.Caixa .Buttons{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}

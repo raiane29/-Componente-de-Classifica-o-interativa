@@ -1,0 +1,14 @@
+.btnFinal{
+    color: hsl(0, 0%, 100%);
+    font-size: 15px;
+    width: 250px;
+    border-radius: 20px;
+    background-color: hsl(25, 97%, 53%);
+    border: none;
+    padding: 8px;
+    cursor: pointer;
+}
+.btnFinal:hover{
+    color:hsl(25, 97%, 53%) ;
+    background-color: aliceblue;
+}

@@ -1,0 +1,19 @@
+
+.btn{
+    margin-left: 10px;
+    border-radius: 78px;
+    padding: 5px;
+    margin-bottom: 20px;
+    width: 35px;
+    height: 35px;
+    font-size: 17px;
+    border: none;
+    color: rgb(143, 143, 143);
+    background-color:hsl(213, 19%, 18%) ;
+    cursor: pointer;
+}
+
+.btn:hover{
+    color:hsl(0, 0%, 100%) ;
+    background-color: hsl(25, 97%, 53%);
+}
